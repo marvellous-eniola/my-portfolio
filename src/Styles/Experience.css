@@ -1,0 +1,12 @@
+.experience {
+  color: #000;
+  font-size: large;
+}
+
+@media screen and (max-width: 570px) {
+  .experience {
+    color: #000;
+    font-size: small;
+    padding: 0.5rem;
+  }
+}

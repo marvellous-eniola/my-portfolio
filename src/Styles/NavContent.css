@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&family=Syne:wght@600&display=swap");
+
+.nav_content_wrapper {
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 4rem 1rem 3rem;
+  font-family: "Syne";
+}
+
+.nav_content_explore {
+  text-align: center;
+  padding: 1rem;
+  border-radius: 1.7rem;
+  border: 0;
+  margin: 2rem 0rem;
+  padding: 1rem;
+  font-size: medium;
+  font-family: "Rubik";
+  color: #fff;
+  background: #ff9142;
+}
+
+.arrow_right {
+  margin: -0.15rem 0.2rem;
+}
+
+.my_image {
+  height: 200px;
+}
+
+.nav_about_me {
+  font-family: "Syne";
+  text-align: center;
+}
+
+.nav_about_me p {
+  font-family: "Syne";
+  display: flex;
+  margin: 0.2rem 2rem;
+  justify-content: center;
+  text-align: center;
+}
+
+.discover {
+  padding: 1rem;
+  border-radius: 1.78rem;
+  border: 0;
+  font-family: "Rubik";
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin: 1rem 0rem;
+  background: #ff9142;
+}
+
+.image_design {
+  height: 40px;
+  margin-right: -1rem;
+  margin-top: 1rem;
+}
+
+@media screen and (min-width: 580px) {
+  .nav_about_me {
+    display: flex;
+    justify-content: center;
+    margin: 0rem 2rem;
+  }
+}

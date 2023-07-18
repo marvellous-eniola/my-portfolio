@@ -1,0 +1,27 @@
+.toggle_links_wrapper {
+  background-color: #3f3d3d;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 1rem;
+}
+
+.toggle_links_wrapper p {
+  padding: 0.5rem;
+}
+
+.toggle_links_wrapper p:hover {
+  background-color: #9c9797;
+  border: 0;
+  border-radius: 5px;
+}
+
+.home {
+  color: #fff;
+  background-color: #e0d7d72c;
+  border: 0;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}

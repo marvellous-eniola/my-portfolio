@@ -1,0 +1,43 @@
+.footer_wrapper {
+  background-color: #000;
+  letter-spacing: 1px;
+  padding: 2rem;
+  font-family: "Syne";
+  border-top: 1px solid #20202048;
+}
+
+.footer_center {
+  text-align: center;
+}
+
+.touch {
+  color: #ff9142;
+}
+
+.mail {
+  text-decoration: underline;
+}
+
+.footer_flex {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 1rem;
+}
+
+.name {
+  text-transform: uppercase;
+}
+
+.media_links a {
+  color: #fff;
+  font-size: large;
+  margin: 0rem 0.6rem;
+  padding: 0.2rem;
+  border-radius: 100%;
+}
+
+/*  */
+
+
